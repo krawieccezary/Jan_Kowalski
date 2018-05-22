@@ -16,7 +16,7 @@ body
 .rectangle
 {
 	width: 960px;
-	margin: 20px;
+	margin: 100px auto 20px;
 	text-align: center;
 }
 
